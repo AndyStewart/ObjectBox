@@ -1,0 +1,107 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles />
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="ObjectFactories" priority="2" />
+      <Item value="Activator`0" priority="1" />
+      <Item value="T`0" priority="4" />
+      <Item value="IObjectCreator" priority="3" />
+      <Item value="var" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="if" priority="1" />
+      <Item value="Queue`0" priority="2" />
+      <Item value="q" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="class" priority="2" />
+      <Item value="UnknownObject`0" priority="1" />
+      <Item value="myClass" priority="0" />
+      <Item value="Establish`0" priority="1" />
+      <Item value="Object`0" priority="0" />
+      <Item value="Because`0" priority="1" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="MyClassFactory`0" priority="0" />
+      <Item value="factory" priority="1" />
+      <Item value="It`0" priority="2" />
+      <Item value="defaultValues" priority="4" />
+      <Item value="Register`1" priority="0" />
+      <Item value="DefaultObject`0" priority="4" />
+      <Item value="void" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="newObject" priority="2" />
+      <Item value="Factories" priority="0" />
+      <Item value="factoriesFound" priority="0" />
+      <Item value="FactoryNotRegisteredException`0" priority="0" />
+      <Item value="ObjectFactory`0" priority="1" />
+      <Item value="defaultObject" priority="0" />
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Indexer" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="OfType`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetGenericTypeDefinition`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectBox.Tests.Fixtures.MyObject">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectBox.Tests.Fixtures.ObjectFactory">
+      <Item value="Create`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectBox.Tests.Fixtures.DefaultObject">
+      <Item value="Id" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectBox.IObjectCreator`1">
+      <Item value="SetDefault`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldBe`0" priority="0" />
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

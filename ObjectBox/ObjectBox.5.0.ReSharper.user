@@ -1,0 +1,103 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/d:Fixtures/f:ObjectFactory.cs" caret="90" fromTop="3" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:FactoryNotRegisteredException.cs" caret="442" fromTop="16" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:IObjectCreator.cs" caret="66" fromTop="1" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1203" fromTop="31" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:BaseFactory.cs" caret="467" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="254" fromTop="7" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="328" fromTop="15" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="85" fromTop="2" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="885" fromTop="25" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:BaseFactory.cs" caret="389" fromTop="5" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:FactoryNotRegisteredException.cs" caret="132" fromTop="5" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:FactoryNotRegisteredException.cs" caret="441" fromTop="16" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="632" fromTop="21" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1277" fromTop="31" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1013" fromTop="29" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1013" fromTop="34" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:IObjectCreator.cs" caret="66" fromTop="1" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1395" fromTop="33" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1657" fromTop="49" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:BaseFactory.cs" caret="306" fromTop="10" />
+      <File id="5A27BA78-5C8C-4F26-BBC1-0BF558607B6D/f:FactorySpecs.cs" caret="1203" fromTop="31" />
+      <File id="3FD6385D-3BB7-4C1B-AFB9-4F178B3E5F29/f:BaseFactory.cs" caret="467" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="class" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="BaseFactory`0" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="ObjectFactory`0" priority="0" />
+      <Item value="factory" priority="2" />
+      <Item value="MyObject`0" priority="1" />
+      <Item value="Because`0" priority="0" />
+      <Item value="It`0" priority="2" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="Machine" priority="0" />
+      <Item value="Specifications" priority="0" />
+      <Item value="Utility" priority="0" />
+      <Item value="thr" priority="0" />
+      <Item value="FactoryNotRegisteredException`0" priority="2" />
+      <Item value="typeof" priority="1" />
+      <Item value="type" priority="2" />
+      <Item value="override" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="NotRegisteredException" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="Establish`0" priority="0" />
+      <Item value="ObjectFactory" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="MyClassFactory`0" priority="0" />
+      <Item value="myClass" priority="0" />
+      <Item value="MyClass`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectFactory.Tests.When_attempting_to_create_object_that_isnt_registered+ObjectFactory">
+      <Item value="Create`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="AssemblyQualifiedName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectFactory.Tests.When_creating_an_object_you_specified_in_a_factory+ObjectFactory">
+      <Item value="Create`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ObjectFactory.Tests.When_creating_an_object_you_specified_in_a_factory_with_no_defaults+MyClass">
+      <Item value="ShouldBeOfType`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
